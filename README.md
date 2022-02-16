@@ -24,9 +24,9 @@ This app shows how developers can add images from the assets to flutter app. Fur
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
   <div class="row">
 <img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/bitcoin_app.png'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Valentine_Day/main/valntineday1.png'>
 <img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Bitcoin/main/bitcoin_icon.png'>
+     ='https://raw.githubusercontent.com/MuharremKoroglu/Valentine_Day/main/valentineday2.png'>
   </div>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
